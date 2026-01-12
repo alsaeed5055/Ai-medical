@@ -1,0 +1,5 @@
+{
+  "name": "Dawaa Dost",
+  "description": "A platform for customers to order medicines from local medical stores for pickup. The platform includes an admin panel for managing shop registrations and separate dashboards for shop owners to manage their orders and inventory.",
+  "requestFramePermissions": []
+}
